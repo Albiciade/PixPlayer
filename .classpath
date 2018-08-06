@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Desktop/Processing/core/library/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Documents/Processing/libraries/minim/library/minim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Documents/Processing/libraries/mp3agic/library/mp3agic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Documents/Processing/libraries/minim/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Documents/Processing/libraries/minim/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Documents/Processing/libraries/minim/library/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Documents/Processing/libraries/minim/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alcib/Documents/Processing/libraries/minim/library/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
